@@ -18,7 +18,7 @@ See the full list of arguments in the file ```main.py```.
 ## Cite
 ```
 @inproceedings{compositional-pac,
-  title={Compositional PAC-Bayes: generalization of GNNs with persistence and beyond},
+  title={Compositional PAC-Bayes: Generalization of GNNs with persistence and beyond},
   author={Kirill Brilliantov and Amauri H. Souza and Vikas Garg},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
